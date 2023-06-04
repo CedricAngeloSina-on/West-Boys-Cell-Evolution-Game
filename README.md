@@ -10,7 +10,7 @@ De La Cruz, Debuque, Panganiban, Parcon and Vargas
 
 ### Contents:
 
-/src - Interactive Simulation Cell Game Project File
-/dist - Working Game Build
-/feature_graphics - Game Art and Raw Files
-/doc - Thesis Documents
+/src - Interactive Simulation Cell Game Project File  
+/dist - Working Game Build  
+/feature_graphics - Game Art and Raw Files  
+/doc - Thesis Documents  
