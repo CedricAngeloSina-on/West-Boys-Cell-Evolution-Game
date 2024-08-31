@@ -1,0 +1,11 @@
+Programs Needed:
+Unity Hub
+Unity Editor 2022.2.5f1
+Full Project Link:
+https://drive.google.com/file/d/1TtW-1WtMBWkcrt8kyzJkklMkkD4gV-BH/view?usp=sharing
+
+To open the project you need to first install Unity Hub
+After the installation open Unity Hub
+If you are not on Projects, press the Projects found on the left side of Unity Hub
+Then you press Add and select the folder where the full Project is.
+If you have the editor version you can then click on the project on Unity Hub to open it.
